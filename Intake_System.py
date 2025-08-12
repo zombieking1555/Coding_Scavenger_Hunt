@@ -2,7 +2,7 @@
 """
 Congrats on making your way to checkpoint 3! in this Subsystem, which is what we call different parts of a robot,
 you will find a lot of addition to variables. find the number of = signs, and then subtract the number of + signs from it
-to get the number of characters in the name of the next file you must navigate to!
+to get the number of characters in the name of the next file you must navigate to! (.py is also characters)
 
 Hint: The signs in this introduction are also counted!
 """
