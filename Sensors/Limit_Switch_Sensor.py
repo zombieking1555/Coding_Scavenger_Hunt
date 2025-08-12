@@ -7,7 +7,7 @@ def isPressed():
         return True
     
     elif clue2 == True:
-        print("You found the second clue, Remember this word and navigate to the ! (Secret word: Falcon)")
+        print("You found the next clue, Remember this word and navigate to the Intake Subsystem! (Secret word: Falcon)")
         return False
     
     else:
