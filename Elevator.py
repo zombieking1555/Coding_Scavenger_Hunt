@@ -1,4 +1,4 @@
-# Elevator
+# Elevator - Checkpoint 1
 
 """
 

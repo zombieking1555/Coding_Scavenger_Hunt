@@ -1,3 +1,4 @@
+#Checkpoint 2
 pressed = False
 clue2 = True
 
