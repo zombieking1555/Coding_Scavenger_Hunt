@@ -6,7 +6,6 @@ constants file on the line that matches the number you get to find the resolutio
 you might even find the third word!
 """
 
-48
 
 cameraAngle = 0
 cameraZoom = 1.0
